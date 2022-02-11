@@ -7,13 +7,13 @@ public class CarManager {
     Audi audi = new Audi();
     Volkswagen volkswagen = new Volkswagen();
 
-    public void arabaOzellikleri(String carBrand){
+    public void carFeatures(String carBrand){
 
         if(carBrand.equals("audi"))
         {
-            audi.ozellik();
+            audi.features();
         }else if(carBrand.equals("volkswagen")){
-            volkswagen.ozellik();
+            volkswagen.features();
         }
         else {
             System.out.println("belirttiginiz araç bulunamadı");
