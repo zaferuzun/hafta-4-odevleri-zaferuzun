@@ -3,17 +3,12 @@ package com.innova.solid.liskovSubstitution.unprincipled;
 public class Notebook extends Computer{
     @Override
     public void getGPU() {
-        System.out.println("i5");
+        System.out.println("Android");
     }
 
     @Override
     public void getRam() {
-        System.out.println("8gb");
-    }
-
-    @Override
-    public void getGraphicsCard() {
-        System.out.println("3090");
+        System.out.println("1gb");
     }
 
     @Override
@@ -21,4 +16,5 @@ public class Notebook extends Computer{
         System.out.println("11 inc");
 
     }
+
 }

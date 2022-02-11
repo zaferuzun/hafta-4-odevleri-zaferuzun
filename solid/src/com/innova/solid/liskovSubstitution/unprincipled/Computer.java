@@ -1,15 +1,23 @@
 package com.innova.solid.liskovSubstitution.unprincipled;
 
-public abstract class Computer {
+public class Computer {
 
 
-    public abstract void getGPU();
+    public void getGPU(){
+        System.out.println("i3");
+    }
 
-    public abstract void getRam();
+    public void getRam(){
+        System.out.println("8gb");
+    }
 
-    public abstract void getGraphicsCard();
+    public void getGraphicsCard(){
+        System.out.println("1060");
+    }
 
-    public abstract void getScreenSize();
+    public void getScreenSize(){
+        System.out.println("11inc");
+    }
 
 
 
