@@ -4,4 +4,4 @@ MVC yapısında thymeleaf kullanılarak bir register sayfası oluşturulacak, so
 
 SOLID'e çalışılacak ve SOLID prensipleri ile ilgili Java kodları yazılıp github'a yüklenecek. Ayrıca Powerpoint sunusu hazırlanacak. (11.02.2021 Cuma'ya kadar)												
 Register ödevi geliştirilecek (thymeleaf kullanılacak ve bootstrap ile iyileştirilecek) ve ders sonundaki örnekte REST olarak datalar gösterilecek (11.02.2021 Cuma'ya kadar)													
-# Register Odev linki = https://github.com/zaferuzun/InnovaSpringRegisterLogin
+# Register ve Rest Odev linki = https://github.com/zaferuzun/InnovaSpringRegisterLogin
